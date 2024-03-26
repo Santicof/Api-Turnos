@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTurnos", "ApiTurnos\ApiTurnos.csproj", "{1C85805A-7FDD-495E-A3C8-B695425D1594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C85805A-7FDD-495E-A3C8-B695425D1594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C85805A-7FDD-495E-A3C8-B695425D1594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C85805A-7FDD-495E-A3C8-B695425D1594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C85805A-7FDD-495E-A3C8-B695425D1594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A81F02-FDD2-4B39-8EB8-B351C96B2D39}
+	EndGlobalSection
+EndGlobal
